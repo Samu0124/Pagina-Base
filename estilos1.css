@@ -503,7 +503,7 @@
 	left: 100px;
 	width: 100px;
 	height: 146px;
-	background-image: url("Mia Foto2.PNG");
+	background-image: url("Mia Foto2.png");
 	border-radius: 10px;
 }
 .music{
@@ -1311,7 +1311,7 @@ height: 50px;
     left: 1140px;
     width: 150px;
     height: 150px;
-    background-image: url("logocole.PNG");
+    background-image: url("logocole.png");
 }
 
 .tablero{
@@ -1320,6 +1320,6 @@ height: 50px;
     left: 705px;
     width: 550px;
     height: 490px;
-    background-image: url("Tablero.PNG");
+    background-image: url("Tablero.png");
     z-index: 1;
 }
